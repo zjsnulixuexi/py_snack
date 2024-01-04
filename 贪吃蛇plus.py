@@ -6,9 +6,9 @@ import pygame
 from pygame.locals import *
 from collections import deque
 ######################################初始化界面#######################################
-# 初始化 Pygame  
+# 初始化 Pygame   
 pygame.init()
-#看kj
+#看kjijinion
 # 设置窗口尺寸和标题
 SCREEN_WIDTH = 889
 SCREEN_HEIGHT = 717
