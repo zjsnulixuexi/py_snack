@@ -8,7 +8,7 @@ from collections import deque
 ######################################初始化界面#######################################
 # 初始化 Pygame   
 pygame.init()
-#看kjijinion
+#看kjijinioniojoj
 # 设置窗口尺寸和标题
 SCREEN_WIDTH = 889
 SCREEN_HEIGHT = 717
