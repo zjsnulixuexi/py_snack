@@ -7,7 +7,7 @@ from pygame.locals import *
 from collections import deque
 ######################################初始化界面#######################################
 # 初始化 Pygam
-#test_by_zjs
+#test_by_z
 pygame.init()
 # 设置窗口尺寸和标题
 SCREEN_WIDTH = 889
